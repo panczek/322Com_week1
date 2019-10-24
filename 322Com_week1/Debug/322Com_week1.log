@@ -1,0 +1,25 @@
+﻿  322Com_week1.cpp
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(45,19): warning C4018: '<': signed/unsigned mismatch
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(64,25): warning C4018: '<': signed/unsigned mismatch
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(66,26): warning C4018: '<': signed/unsigned mismatch
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(87,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(121,21): warning C4018: '<': signed/unsigned mismatch
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(135,22): warning C4018: '<': signed/unsigned mismatch
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(170,25): warning C4018: '<': signed/unsigned mismatch
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(260,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(272,35): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(272,35): warning C4244:         with
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(272,35): warning C4244:         [
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(272,35): warning C4244:             T=float
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(272,35): warning C4244:         ]
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(273,35): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(273,35): warning C4244:         with
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(273,35): warning C4244:         [
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(273,35): warning C4244:             T=float
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(273,35): warning C4244:         ]
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(259,6): warning C4101: 'tempj': unreferenced local variable
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(320,20): warning C4018: '<': signed/unsigned mismatch
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(365,20): warning C4018: '<': signed/unsigned mismatch
+E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\322Com_week1\322Com_week1.cpp(394,6): warning C4101: 'i': unreferenced local variable
+  322Com_week1.vcxproj -> E:\OneDrive - Coventry University\3rd year\322COM\322Com_week1\Debug\322Com_week1.exe
